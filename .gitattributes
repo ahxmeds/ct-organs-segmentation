@@ -1,0 +1,2 @@
+/home/jhubadmin/Projects/ct-organs-segmentation/wholeBody_ct_segmentation/models/model.pt filter=lfs diff=lfs merge=lfs -text
+/home/jhubadmin/Projects/ct-organs-segmentation/wholeBody_ct_segmentation/models/model_lowres.pt filter=lfs diff=lfs merge=lfs -text
